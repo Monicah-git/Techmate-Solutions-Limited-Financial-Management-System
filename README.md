@@ -2,7 +2,6 @@
 
 A full-cycle bookkeeping and inventory management system built in Microsoft Excel with VBA automation, developed for a fictional computer sales company as a personal project to demonstrate practical accounting and financial management skills.
 
-\---
 
 ## About This Project
 
@@ -10,7 +9,6 @@ TechMate Solutions Limited is a fictional computer sales company based in Nairob
 
 Everything in the system is connected. When you update an invoice, it flows through to revenue. When you record an expense, it updates the P\&L and the variance analysis. The financial statements pull live data from the source sheets using cross-sheet formulas, so the numbers are always up to date.
 
-\---
 
 ## What the System Covers
 
@@ -65,7 +63,6 @@ Everything in the system is connected. When you update an invoice, it flows thro
 * Actuals pulled live from source sheets using SUMPRODUCT and SUMIFS formulas
 * Colour-coded variances: green = favourable, red = adverse
 
-\---
 
 ## ⚙️ How to Open and Use It
 
@@ -77,7 +74,6 @@ Everything in the system is connected. When you update an invoice, it flows thro
 
 > \*\*Note:\*\* Macros must be enabled for the navigation and automation features to work. The VBA code only handles navigation, sheet protection, and the welcome screen — it does not connect to the internet or access any external data.
 
-\---
 
 ## 🛠️ Tools Used
 
@@ -85,7 +81,6 @@ Everything in the system is connected. When you update an invoice, it flows thro
 * VBA (Visual Basic for Applications) — for automation and navigation
 * Formulas used: SUMIF, SUMIFS, SUMPRODUCT, VLOOKUP, IF, ROUND, SUM, and cross-sheet references
 
-\---
 
 ## 📁 Workbook Structure
 
@@ -120,7 +115,6 @@ Everything in the system is connected. When you update an invoice, it flows thro
 |Budget|Q1 2024 monthly budget plan|
 |Variance Analysis|Budget vs actual with live formulas|
 
-\---
 
 ## 👩‍💼 Built By
 
